@@ -4,7 +4,7 @@
 ### I'm Rowan
 - 🔭 `Oh look, a data nerd.`
 - 🎓 `Microsoft certified data engineer.`
-- 💼 `Data architect and data engineer at one of the Big Four...`
+- 💼 `Data solution architect and data engineer.`
 - 🔧 `Building a data lakehouse`
-- 👀 `I'm interested in 🛠️ DIY, IkeaHacks, Lego, Harley-Davidson and Formula1.`
+- 👀 `I'm interested in 🛠️ DIY, Smart Home, IkeaHacks, Lego, Harley-Davidson and Formula 1.`
 - :trollface: `Guilty of a silly sense of humour.`
